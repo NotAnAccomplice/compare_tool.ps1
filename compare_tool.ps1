@@ -1,4 +1,7 @@
 #This is a script to compare two lists of items from a csv.
+#It requires a csv file called "compare.csv" at the current location of...
+#...the powershell script, with two columns: "compare_list_1" and...
+#... "compare_list_2".
 
 #Define the current location in a variable
 $current_location = pwd
